@@ -1,2 +1,2 @@
-- Phần testcase nằm trong thư mục: Testcase
+- Phần testcase nằm trong thư mục: Testcase (để xem file test phải tải xuống)
 - Phần code nằm trong thư mục: 23_BuiQuangLong_manager_user
